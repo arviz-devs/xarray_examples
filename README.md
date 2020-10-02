@@ -19,3 +19,7 @@ xarray better. The hopeful outcomes are
 
 ## Other Notes
 * Feel free to self merge your own PRs 
+
+
+Xarray tutorial
+https://binder.pangeo.io/v2/gh/xarray-contrib/xarray-tutorial/binder-config?urlpath=git-pull?repo=https://github.com/xarray-contrib/xarray-tutorial%26amp%3Bbranch=master%26amp%3Burlpath=lab/tree/xarray-tutorial/%3Fautodecode
